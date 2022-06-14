@@ -1,0 +1,1178 @@
+[
+    {
+        "character": "凹",
+        "code": "2152001"
+    },
+    {
+        "character": "卜",
+        "code": "20004"
+    },
+    {
+        "character": "不",
+        "code": "10204"
+    },
+    {
+        "character": "本",
+        "code": "20340"
+    },
+    {
+        "character": "白",
+        "code": "3021521"
+    },
+    {
+        "character": "卞",
+        "code": "40204"
+    },
+    {
+        "character": "丙",
+        "code": "1021544"
+    },
+    {
+        "character": "必",
+        "code": "4304534"
+    },
+    {
+        "character": "半",
+        "code": "43201"
+    },
+    {
+        "character": "八",
+        "code": "34000"
+    },
+    {
+        "character": "币",
+        "code": "3020154"
+    },
+    {
+        "character": "秉",
+        "code": "30342"
+    },
+    {
+        "character": "巴",
+        "code": "252152001"
+    },
+    {
+        "character": "匕",
+        "code": "2523000"
+    },
+    {
+        "character": "办",
+        "code": "3001544"
+    },
+    {
+        "character": "成",
+        "code": "4534303"
+    },
+    {
+        "character": "厂",
+        "code": "31000"
+    },
+    {
+        "character": "尺",
+        "code": "3152041"
+    },
+    {
+        "character": "才",
+        "code": "2540301"
+    },
+    {
+        "character": "寸",
+        "code": "2540004"
+    },
+    {
+        "character": "出",
+        "code": "2025120"
+    },
+    {
+        "character": "亍",
+        "code": "1025401"
+    },
+    {
+        "character": "产",
+        "code": "40301"
+    },
+    {
+        "character": "叉",
+        "code": "1530044"
+    },
+    {
+        "character": "虫",
+        "code": "20340"
+    },
+    {
+        "character": "串",
+        "code": "2000152"
+    },
+    {
+        "character": "丑",
+        "code": "1520100"
+    },
+    {
+        "character": "蚩",
+        "code": "20142"
+    },
+    {
+        "character": "川",
+        "code": "32002"
+    },
+    {
+        "character": "匆",
+        "code": "3031544"
+    },
+    {
+        "character": "车",
+        "code": "3510201"
+    },
+    {
+        "character": "长",
+        "code": "2533041"
+    },
+    {
+        "character": "乘",
+        "code": "30342"
+    },
+    {
+        "character": "重",
+        "code": "30102"
+    },
+    {
+        "character": "垂",
+        "code": "30102"
+    },
+    {
+        "character": "斥",
+        "code": "30324"
+    },
+    {
+        "character": "承",
+        "code": "15301534254"
+    },
+    {
+        "character": "册",
+        "code": "3154003"
+    },
+    {
+        "character": "刁",
+        "code": "1540004"
+    },
+    {
+        "character": "丁",
+        "code": "1025400"
+    },
+    {
+        "character": "电",
+        "code": "252000152"
+    },
+    {
+        "character": "东",
+        "code": "351025404"
+    },
+    {
+        "character": "丹",
+        "code": "3154001"
+    },
+    {
+        "character": "氐",
+        "code": "302534534"
+    },
+    {
+        "character": "刀",
+        "code": "1540300"
+    },
+    {
+        "character": "大",
+        "code": "30041"
+    },
+    {
+        "character": "耳",
+        "code": "10201"
+    },
+    {
+        "character": "二",
+        "code": "10100"
+    },
+    {
+        "character": "儿",
+        "code": "3252000"
+    },
+    {
+        "character": "飞",
+        "code": "1530004"
+    },
+    {
+        "character": "甫",
+        "code": "2421542"
+    },
+    {
+        "character": "夫",
+        "code": "30041"
+    },
+    {
+        "character": "弗",
+        "code": "3200254"
+    },
+    {
+        "character": "丰",
+        "code": "20001"
+    },
+    {
+        "character": "方",
+        "code": "4031541"
+    },
+    {
+        "character": "凡",
+        "code": "3152004"
+    },
+    {
+        "character": "父",
+        "code": "34340"
+    },
+    {
+        "character": "个",
+        "code": "34200"
+    },
+    {
+        "character": "弓",
+        "code": "152025401"
+    },
+    {
+        "character": "艮",
+        "code": "253152043"
+    },
+    {
+        "character": "更",
+        "code": "1034152"
+    },
+    {
+        "character": "工",
+        "code": "10102"
+    },
+    {
+        "character": "丐",
+        "code": "1025402"
+    },
+    {
+        "character": "干",
+        "code": "10201"
+    },
+    {
+        "character": "果",
+        "code": "2152342"
+    },
+    {
+        "character": "瓜",
+        "code": "30344"
+    },
+    {
+        "character": "戈",
+        "code": "4534301"
+    },
+    {
+        "character": "甘",
+        "code": "22001"
+    },
+    {
+        "character": "革",
+        "code": "22201"
+    },
+    {
+        "character": "禾",
+        "code": "30342"
+    },
+    {
+        "character": "户",
+        "code": "4030152"
+    },
+    {
+        "character": "火",
+        "code": "30043"
+    },
+    {
+        "character": "乎",
+        "code": "3025401"
+    },
+    {
+        "character": "互",
+        "code": "1010152"
+    },
+    {
+        "character": "击",
+        "code": "2025120"
+    },
+    {
+        "character": "井",
+        "code": "35001"
+    },
+    {
+        "character": "戋",
+        "code": "4534301"
+    },
+    {
+        "character": "夹",
+        "code": "30041"
+    },
+    {
+        "character": "柬",
+        "code": "20342"
+    },
+    {
+        "character": "甲",
+        "code": "2152200"
+    },
+    {
+        "character": "巾",
+        "code": "2000154"
+    },
+    {
+        "character": "斤",
+        "code": "30321"
+    },
+    {
+        "character": "臼",
+        "code": "3152201"
+    },
+    {
+        "character": "孓",
+        "code": "153025404"
+    },
+    {
+        "character": "孑",
+        "code": "153025403"
+    },
+    {
+        "character": "几",
+        "code": "3152000"
+    },
+    {
+        "character": "九",
+        "code": "3001520"
+    },
+    {
+        "character": "久",
+        "code": "3015340"
+    },
+    {
+        "character": "及",
+        "code": "1530340"
+    },
+    {
+        "character": "韭",
+        "code": "22100"
+    },
+    {
+        "character": "巨",
+        "code": "251111520"
+    },
+    {
+        "character": "兼",
+        "code": "43342"
+    },
+    {
+        "character": "己",
+        "code": "152025201"
+    },
+    {
+        "character": "开",
+        "code": "10321"
+    },
+    {
+        "character": "亏",
+        "code": "1025401"
+    },
+    {
+        "character": "口",
+        "code": "2152001"
+    },
+    {
+        "character": "卡",
+        "code": "20204"
+    },
+    {
+        "character": "龙",
+        "code": "3402523"
+    },
+    {
+        "character": "两",
+        "code": "1021544"
+    },
+    {
+        "character": "立",
+        "code": "40103"
+    },
+    {
+        "character": "来",
+        "code": "20340"
+    },
+    {
+        "character": "良",
+        "code": "4025343"
+    },
+    {
+        "character": "里",
+        "code": "2152102"
+    },
+    {
+        "character": "了",
+        "code": "153025400"
+    },
+    {
+        "character": "乐",
+        "code": "3025404"
+    },
+    {
+        "character": "力",
+        "code": "3015400"
+    },
+    {
+        "character": "吏",
+        "code": "3004152"
+    },
+    {
+        "character": "隶",
+        "code": "2540340"
+    },
+    {
+        "character": "民",
+        "code": "2531524531"
+    },
+    {
+        "character": "木",
+        "code": "20340"
+    },
+    {
+        "character": "末",
+        "code": "20340"
+    },
+    {
+        "character": "门",
+        "code": "4154200"
+    },
+    {
+        "character": "矛",
+        "code": "15303254153"
+    },
+    {
+        "character": "米",
+        "code": "34342"
+    },
+    {
+        "character": "目",
+        "code": "2152101"
+    },
+    {
+        "character": "皿",
+        "code": "2152102"
+    },
+    {
+        "character": "毛",
+        "code": "3025201"
+    },
+    {
+        "character": "母",
+        "code": "251154000"
+    },
+    {
+        "character": "乜",
+        "code": "252000154"
+    },
+    {
+        "character": "廿",
+        "code": "22001"
+    },
+    {
+        "character": "内",
+        "code": "3021544"
+    },
+    {
+        "character": "年",
+        "code": "30201"
+    },
+    {
+        "character": "乃",
+        "code": "50300"
+    },
+    {
+        "character": "乃",
+        "code": "50300"
+    },
+    {
+        "character": "牛",
+        "code": "32001"
+    },
+    {
+        "character": "农",
+        "code": "3025343"
+    },
+    {
+        "character": "女",
+        "code": "354033541"
+    },
+    {
+        "character": "我",
+        "code": "342544533"
+    },
+    {
+        "character": "丸",
+        "code": "3001524"
+    },
+    {
+        "character": "文",
+        "code": "40341"
+    },
+    {
+        "character": "万",
+        "code": "1031540"
+    },
+    {
+        "character": "五",
+        "code": "1010152"
+    },
+    {
+        "character": "未",
+        "code": "20340"
+    },
+    {
+        "character": "为",
+        "code": "4301544"
+    },
+    {
+        "character": "亡",
+        "code": "4025101"
+    },
+    {
+        "character": "卫",
+        "code": "1540102"
+    },
+    {
+        "character": "兀",
+        "code": "1032520"
+    },
+    {
+        "character": "瓦",
+        "code": "102531524"
+    },
+    {
+        "character": "毋",
+        "code": "251154300"
+    },
+    {
+        "character": "平",
+        "code": "10201"
+    },
+    {
+        "character": "片",
+        "code": "3201521"
+    },
+    {
+        "character": "爿",
+        "code": "2512301"
+    },
+    {
+        "character": "犬",
+        "code": "34041"
+    },
+    {
+        "character": "求",
+        "code": "2544340"
+    },
+    {
+        "character": "丘",
+        "code": "30102"
+    },
+    {
+        "character": "曲",
+        "code": "2221521"
+    },
+    {
+        "character": "且",
+        "code": "2152100"
+    },
+    {
+        "character": "七",
+        "code": "2520001"
+    },
+    {
+        "character": "气",
+        "code": "3015301"
+    },
+    {
+        "character": "千",
+        "code": "30201"
+    },
+    {
+        "character": "乞",
+        "code": "3015201"
+    },
+    {
+        "character": "人",
+        "code": "30040"
+    },
+    {
+        "character": "入",
+        "code": "40300"
+    },
+    {
+        "character": "冉",
+        "code": "2021541"
+    },
+    {
+        "character": "日",
+        "code": "2152100"
+    },
+    {
+        "character": "壬",
+        "code": "30102"
+    },
+    {
+        "character": "刃",
+        "code": "1540303"
+    },
+    {
+        "character": "三",
+        "code": "10101"
+    },
+    {
+        "character": "石",
+        "code": "1031521"
+    },
+    {
+        "character": "尸",
+        "code": "3152001"
+    },
+    {
+        "character": "巳",
+        "code": "252152001"
+    },
+    {
+        "character": "术",
+        "code": "24340"
+    },
+    {
+        "character": "水",
+        "code": "254015340"
+    },
+    {
+        "character": "十",
+        "code": "20000"
+    },
+    {
+        "character": "事",
+        "code": "254000152"
+    },
+    {
+        "character": "少",
+        "code": "20304"
+    },
+    {
+        "character": "卅",
+        "code": "32002"
+    },
+    {
+        "character": "世",
+        "code": "2225101"
+    },
+    {
+        "character": "申",
+        "code": "2000152"
+    },
+    {
+        "character": "山",
+        "code": "2025120"
+    },
+    {
+        "character": "史",
+        "code": "3004152"
+    },
+    {
+        "character": "失",
+        "code": "33041"
+    },
+    {
+        "character": "生",
+        "code": "32102"
+    },
+    {
+        "character": "升",
+        "code": "32301"
+    },
+    {
+        "character": "士",
+        "code": "20100"
+    },
+    {
+        "character": "手",
+        "code": "3025401"
+    },
+    {
+        "character": "氏",
+        "code": "302534531"
+    },
+    {
+        "character": "甩",
+        "code": "315425200"
+    },
+    {
+        "character": "矢",
+        "code": "30341"
+    },
+    {
+        "character": "四",
+        "code": "21523251"
+    },
+    {
+        "character": "凸",
+        "code": "2152201"
+    },
+    {
+        "character": "屯",
+        "code": "2520002"
+    },
+    {
+        "character": "由",
+        "code": "2021521"
+    },
+    {
+        "character": "土",
+        "code": "20100"
+    },
+    {
+        "character": "田",
+        "code": "2152201"
+    },
+    {
+        "character": "习",
+        "code": "1540304"
+    },
+    {
+        "character": "乡",
+        "code": "351030351"
+    },
+    {
+        "character": "夕",
+        "code": "3015304"
+    },
+    {
+        "character": "心",
+        "code": "4045304"
+    },
+    {
+        "character": "贝",
+        "code": "2152340"
+    },
+    {
+        "character": "又",
+        "code": "1530040"
+    },
+    {
+        "character": "上",
+        "code": "20100"
+    },
+    {
+        "character": "子",
+        "code": "153025401"
+    },
+    {
+        "character": "也",
+        "code": "252200154"
+    },
+    {
+        "character": "之",
+        "code": "4040153"
+    },
+    {
+        "character": "下",
+        "code": "10204"
+    },
+    {
+        "character": "么",
+        "code": "303514"
+    },
+    {
+        "character": "小",
+        "code": "2540004"
+    },
+    {
+        "character": "于",
+        "code": "1025401"
+    },
+    {
+        "character": "已",
+        "code": "152025201"
+    },
+    {
+        "character": "与",
+        "code": "2540001"
+    },
+    {
+        "character": "马",
+        "code": "152025401"
+    },
+    {
+        "character": "义",
+        "code": "43004"
+    },
+    {
+        "character": "广",
+        "code": "40301"
+    },
+    {
+        "character": "丈",
+        "code": "30041"
+    },
+    {
+        "character": "丫",
+        "code": "43200"
+    },
+    {
+        "character": "勺",
+        "code": "3015404"
+    },
+    {
+        "character": "幺",
+        "code": "351035140"
+    },
+    {
+        "character": "弋",
+        "code": "4534001"
+    },
+    {
+        "character": "中",
+        "code": "2000152"
+    },
+    {
+        "character": "无",
+        "code": "1032521"
+    },
+    {
+        "character": "太",
+        "code": "30044"
+    },
+    {
+        "character": "月",
+        "code": "3154001"
+    },
+    {
+        "character": "王",
+        "code": "10102"
+    },
+    {
+        "character": "书",
+        "code": "2400154"
+    },
+    {
+        "character": "云",
+        "code": "1035141"
+    },
+    {
+        "character": "元",
+        "code": "1032521"
+    },
+    {
+        "character": "曰",
+        "code": "2152100"
+    },
+    {
+        "character": "专",
+        "code": "2530400"
+    },
+    {
+        "character": "止",
+        "code": "20102"
+    },
+    {
+        "character": "斗",
+        "code": "42001"
+    },
+    {
+        "character": "午",
+        "code": "30201"
+    },
+    {
+        "character": "牙",
+        "code": "103254351"
+    },
+    {
+        "character": "尤",
+        "code": "3402521"
+    },
+    {
+        "character": "乌",
+        "code": "3025401"
+    },
+    {
+        "character": "予",
+        "code": "15302540153"
+    },
+    {
+        "character": "韦",
+        "code": "2000154"
+    },
+    {
+        "character": "允",
+        "code": "351032524"
+    },
+    {
+        "character": "乏",
+        "code": "3040153"
+    },
+    {
+        "character": "欠",
+        "code": "3034153"
+    },
+    {
+        "character": "爪",
+        "code": "30342"
+    },
+    {
+        "character": "歹",
+        "code": "1015304"
+    },
+    {
+        "character": "夭",
+        "code": "30341"
+    },
+    {
+        "character": "用",
+        "code": "3154002"
+    },
+    {
+        "character": "发",
+        "code": "351434153"
+    },
+    {
+        "character": "头",
+        "code": "43041"
+    },
+    {
+        "character": "主",
+        "code": "40102"
+    },
+    {
+        "character": "业",
+        "code": "22103"
+    },
+    {
+        "character": "尔",
+        "code": "3025404"
+    },
+    {
+        "character": "示",
+        "code": "1025404"
+    },
+    {
+        "character": "玉",
+        "code": "10104"
+    },
+    {
+        "character": "皮",
+        "code": "2034153"
+    },
+    {
+        "character": "永",
+        "code": "41534154"
+    },
+    {
+        "character": "央",
+        "code": "30041"
+    },
+    {
+        "character": "玄",
+        "code": "403514351"
+    },
+    {
+        "character": "鸟",
+        "code": "3025401"
+    },
+    {
+        "character": "穴",
+        "code": "4034153"
+    },
+    {
+        "character": "乍",
+        "code": "30201"
+    },
+    {
+        "character": "自",
+        "code": "3021521"
+    },
+    {
+        "character": "而",
+        "code": "1021542"
+    },
+    {
+        "character": "西",
+        "code": "1021521"
+    },
+    {
+        "character": "衣",
+        "code": "4035143"
+    },
+    {
+        "character": "亚",
+        "code": "10103"
+    },
+    {
+        "character": "州",
+        "code": "32002"
+    },
+    {
+        "character": "亦",
+        "code": "4032544"
+    },
+    {
+        "character": "血",
+        "code": "3010152"
+    },
+    {
+        "character": "朱",
+        "code": "32340"
+    },
+    {
+        "character": "肉",
+        "code": "3021544"
+    },
+    {
+        "character": "臣",
+        "code": "251120152"
+    },
+    {
+        "character": "页",
+        "code": "1034152"
+    },
+    {
+        "character": "竹",
+        "code": "3322540"
+    },
+    {
+        "character": "羊",
+        "code": "34201"
+    },
+    {
+        "character": "舌",
+        "code": "3021521"
+    },
+    {
+        "character": "舟",
+        "code": "3031544"
+    },
+    {
+        "character": "曳",
+        "code": "453030152"
+    },
+    {
+        "character": "亥",
+        "code": "40343"
+    },
+    {
+        "character": "亘",
+        "code": "1010152"
+    },
+    {
+        "character": "戍",
+        "code": "4534303"
+    },
+    {
+        "character": "聿",
+        "code": "20001"
+    },
+    {
+        "character": "耒",
+        "code": "20340"
+    },
+    {
+        "character": "缶",
+        "code": "3025122"
+    },
+    {
+        "character": "身",
+        "code": "3031541"
+    },
+    {
+        "character": "言",
+        "code": "4021521"
+    },
+    {
+        "character": "弟",
+        "code": "3432254"
+    },
+    {
+        "character": "角",
+        "code": "3031542"
+    },
+    {
+        "character": "束",
+        "code": "20340"
+    },
+    {
+        "character": "辛",
+        "code": "40201"
+    },
+    {
+        "character": "赤",
+        "code": "2032544"
+    },
+    {
+        "character": "麦",
+        "code": "2015343"
+    },
+    {
+        "character": "辰",
+        "code": "3104254"
+    },
+    {
+        "character": "豆",
+        "code": "10103"
+    },
+    {
+        "character": "酉",
+        "code": "1021521"
+    },
+    {
+        "character": "卤",
+        "code": "2021521"
+    },
+    {
+        "character": "囱",
+        "code": "3021521"
+    },
+    {
+        "character": "豕",
+        "code": "1034254"
+    },
+    {
+        "character": "其",
+        "code": "22341"
+    },
+    {
+        "character": "非",
+        "code": "22001"
+    },
+    {
+        "character": "雨",
+        "code": "1021544"
+    },
+    {
+        "character": "乖",
+        "code": "3020252"
+    },
+    {
+        "character": "面",
+        "code": "1021521"
+    },
+    {
+        "character": "鬼",
+        "code": "3032524"
+    },
+    {
+        "character": "禹",
+        "code": "3021544"
+    },
+    {
+        "character": "酋",
+        "code": "4321521"
+    },
+    {
+        "character": "禺",
+        "code": "215221544"
+    }
+]
