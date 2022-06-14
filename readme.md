@@ -31,7 +31,7 @@
 
 以升字为例：
 
-<div style="display: flex"><img src=".\src\32301\1.svg" alt="升1" style="zoom:5%;" /><img src=".\src\32301\2.svg" alt="升2" style="zoom:5%;" /><img src=".\src\32301\3.svg" alt="升3" style="zoom:5%;" /><img src=".\src\32301\4.svg" alt="升4" style="zoom:5%;" /><img 	src=".\src\32301\5.svg" alt="升5" style="zoom:5%;" /></div>
+<div style="display: flex"><img src=".\src\32301\1.svg" alt="升1" width="52" /><img src=".\src\32301\2.svg" alt="升2" width="52" /><img src=".\src\32301\3.svg" alt="升3" width="52" /><img src=".\src\32301\4.svg" alt="升4" width="52" /><img 	src=".\src\32301\5.svg" alt="升5" width="52" /></div>
 
 ​	依次选择笔画撇，竖，撇，竖，横，对应编码为<a>32301</a>
 
@@ -45,7 +45,7 @@
 
 以羡字为例：
 
-<div style="display: flex"><img src=".\src\羡\0.svg" alt="羡0" style="zoom:5%;" /><img src=".\src\羡\1.svg" alt="羡1" style="zoom:5%;" /><img src=".\src\羡\2.svg" alt="羡2" style="zoom:5%;" /><img src=".\src\羡\3.svg" alt="羡3" style="zoom:5%;" /></div>
+<div style="display: flex"><img src=".\src\羡\0.svg" alt="羡0" width="52" /><img src=".\src\羡\1.svg" alt="羡1" width="52" /><img src=".\src\羡\2.svg" alt="羡2" width="52" /><img src=".\src\羡\3.svg" alt="羡3"width="52" /></div>
 
 1. 拆分上下两部分，其中下半部分为汉字<a>次</a>，上半部分编码为<a>43102</a>
 2. 对<a>次</a>继续拆分，拆为左右两部分，其中右半部分为汉字<a>欠</a>，左半部分编码为<a>40300</a>
